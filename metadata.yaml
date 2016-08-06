@@ -1,0 +1,41 @@
+_repo: The-Algebra-of-Logic_10836
+_version: 0.0.1
+alternative_title: Algèbre de la logique. English
+contributor:
+  author_of_introduction:
+    agent_name: Jourdain, Philip E. B. (Philip Edward Bertrand)
+    birthdate: 1879
+    deathdate: 1919
+    gutenberg_agent_id: '3726'
+    url: http://www.gutenberg.org/2009/agents/3726
+  translator:
+    agent_name: Robinson, Lydia Gillingham
+    birthdate: 1875
+    gutenberg_agent_id: '39567'
+    url: http://www.gutenberg.org/2009/agents/39567
+creator:
+  author:
+    agent_name: Couturat, Louis
+    birthdate: 1868
+    deathdate: 1914
+    gutenberg_agent_id: '3709'
+    url: http://www.gutenberg.org/2009/agents/3709
+    wikipedia: http://en.wikipedia.org/wiki/Louis_Couturat
+description: ''
+gutenberg_bookshelf: Mathematics
+gutenberg_issued: '2004-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '10836'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'QA'
+- !lcsh 'Logic, Symbolic and mathematical'
+- !lcsh 'Algebraic logic'
+- !lcc 'BC'
+- GITenberg
+title: The Algebra of Logic
+url: http://www.gutenberg.org/ebooks/10836
