@@ -1,5 +1,5 @@
 _repo: The-Algebra-of-Logic_10836
-_version: 0.0.1
+_version: 0.1.0
 alternative_title: Algèbre de la logique. English
 contributor:
   author_of_introduction:
@@ -13,6 +13,9 @@ contributor:
     birthdate: 1875
     gutenberg_agent_id: '39567'
     url: http://www.gutenberg.org/2009/agents/39567
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Couturat, Louis
@@ -22,6 +25,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3709
     wikipedia: http://en.wikipedia.org/wiki/Louis_Couturat
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/10836#The-Algebra-of-Logic
 gutenberg_bookshelf: Mathematics
 gutenberg_issued: '2004-01-01'
 gutenberg_type: Text
